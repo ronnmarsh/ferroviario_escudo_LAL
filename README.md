@@ -1,4 +1,6 @@
 # ferroviario_escudo_LAL-1.3
+# autor: Ronald Silva Marçal [ronnmarsh]
+# data de criação: 06 de Junho de 2021
 
 License:LAL-1.3
 Name	Free Art License v1.3
